@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'kitchen.apps.KitchenConfig',
     'rest_framework',
+    'frontend',
 ]
 
 MIDDLEWARE = [
